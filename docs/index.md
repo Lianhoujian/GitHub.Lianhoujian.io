@@ -11,13 +11,13 @@ hero:
     alt: 嘻嘻嘻
   actions:
     - theme: brand
-      text: 基础班11111111
+      text: 基础班
       link: /
     - theme: alt
-      text: 移动web111111111111
+      text: 移动web
       link: 
     - theme: brand
-      text: JavaScript基础1111111111
+      text: JavaScript基础
       link: /
     - theme: alt
       text: web APIs
