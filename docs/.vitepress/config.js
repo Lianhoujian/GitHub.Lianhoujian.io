@@ -2,8 +2,10 @@ import {
   defineConfig
 } from 'vitepress'
 
+
 export default {
   title: 'VitePress',
+  base:'/docs/',
   description: '练练不会前端.',
   head: [['meta', { name: 'keywords', content: 'HTML, CSS, JavaScript' }]],
   themeConfig: {
