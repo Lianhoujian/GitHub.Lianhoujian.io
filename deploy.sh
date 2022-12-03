@@ -14,11 +14,11 @@ cd docs/.vitepress/dist
 # echo 'www.example.com' > CNAME
 
 git init
-git add -A
+git add .
 git commit -m 'deploy'
 
 # 如果发布到 https://<USERNAME>.github.io 修改仓库地址
-git push -f
+git push -f https://github.com/Lianhoujian/Lianhoujian.github.io.git master
 
 cd -
 
