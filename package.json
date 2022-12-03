@@ -10,11 +10,11 @@
   "scripts": {
     "mua": "vitepress dev docs",
     "build": "vitepress build docs",
-    "docs:serve": "vitepress serve docs --port 7777",
-    "docs:deploy": "bash deploy.sh"
+    "docs:serve": "vitepress serve docs --port 7777"
   },
   "dependencies": {
     "element-plus": "^2.2.26",
     "kitty-ui": "^4.19.2"
   }
 }
+  
