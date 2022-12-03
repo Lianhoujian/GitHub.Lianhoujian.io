@@ -9,7 +9,7 @@
   },
   "scripts": {
     "mua": "vitepress dev docs",
-    "docs:build": "vitepress build docs",
+    "build": "vitepress build docs",
     "docs:serve": "vitepress serve docs --port 7777",
     "docs:deploy": "bash deploy.sh"
   },
