@@ -1,0 +1,19 @@
+{
+  "name": "mua",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.29",
+    "vue": "^3.2.45"
+  },
+  "scripts": {
+    "mua": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs --port 7777"
+  },
+  "dependencies": {
+    "element-plus": "^2.2.26",
+    "kitty-ui": "^4.19.2"
+  }
+}
