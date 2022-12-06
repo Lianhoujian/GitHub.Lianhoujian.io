@@ -4,11 +4,11 @@ import {
 
 
 export default {
-  title: 'VitePress',
+  title: '练练不会前端',
   description: '练练不会前端.',
   head: [['meta', { name: 'keywords', content: 'HTML, CSS, JavaScript' }]],
   themeConfig: {
-    logo: '/tuzi.png',
+    logo: '/logo.gif',
     siteTitle: '练练',
     docFooter: { prev: '上一篇', next: '下一篇' },
     nav: [{

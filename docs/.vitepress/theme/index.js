@@ -1,8 +1,12 @@
 
 import DefaultTheme from "vitepress/theme";
 import "element-plus/dist/index.css";
-import elementplus from "element-plus"
-import './style/var.css'
+import elementplus from "element-plus";
+import './style/var.css';
+
+// import 'https://files.cnblogs.com/files/liuzhou1/L2Dwidget.min.js';
+// import 'https://files.cnblogs.com/files/liuzhou1/L2Dwidget.0.min.js';
+// import '../1'
 
 export default {
   ...DefaultTheme,
@@ -11,5 +15,6 @@ export default {
     // custom router. `siteData`` is a `ref`` of current site-level metadata.
       app.use(elementplus);
   },
+  
 };
 

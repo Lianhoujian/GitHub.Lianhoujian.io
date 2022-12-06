@@ -3,11 +3,12 @@ layout: home
 
 hero:
   name: 练练不会前端
-  text: 哈哈哈O(∩_∩)O哈哈~
-  tagline: 更多内容正在加班中...
+  # text: ฅ˙Ⱉ˙ฅ ฅ՞•ﻌ•՞ต ଘ ⍥
+  text: ⭐😀😅😊😍😋⭐
+  tagline: 好好学习,天天向上
   Image: /faVicon.ico
   image:
-    src: /electro.png
+    src: /dt.gif
     alt: 嘻嘻嘻
   actions:
     - theme: brand
